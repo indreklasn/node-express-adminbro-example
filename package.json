@@ -7,14 +7,12 @@
     "start": "nodemon app.js localhost 8080"
   },
   "dependencies": {
-    " ": "admin-bro/express",
     "@admin-bro/express": "3.0.0",
     "admin-bro": "3.2.5",
-    "admin-bro-expressjs": "2.1.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
-    "express-formidable": "1.2.0",
+    "express-formidable": "^1.2.0",
     "morgan": "~1.9.1"
   },
   "devDependencies": {
